@@ -23,3 +23,7 @@ they're called automatons.
 ## Exploration
 Exploration of science, tech, through research, makes us possible to explore the real world more.
 
+# Members
+We're enthusiasts, we're family, we're at:<br>
+https://github.io/wteeg
+

@@ -25,5 +25,5 @@ Exploration of science, tech, through research, makes us possible to explore the
 
 # Members
 We're enthusiasts, we're family, we're at:<br>
-https://github.io/wteeg
+[https://github.io/wteeg](https://github.com/wteeg)
 

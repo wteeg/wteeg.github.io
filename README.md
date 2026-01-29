@@ -27,7 +27,7 @@ Exploration of science, tech, through research, makes us possible to explore the
 ## ImGicc
 ImGicc is the solution includes a mobile mate, desktop mate, and web mate.
 Gicc is the name of the mate. The goal is to make Gicc a human-equivalent mate
-to help users in life and at work everyday, an all-in-once AI agent.
+to help users in life and at work everyday, an all-in-one agentic AI.
 
 # Members
 We're enthusiasts, we're family, we're at:<br>

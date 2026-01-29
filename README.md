@@ -29,6 +29,12 @@ ImGicc is the solution includes a mobile mate, desktop mate, and web mate.
 Gicc is the name of the mate. The goal is to make Gicc a human-equivalent mate
 to help users in life and at work everyday, an all-in-one agentic AI.
 
+From ground up?
+  - No, we don't re-invent the wheels, with some further tries but not from ground up.
+
+Human-equivalent? 
+  - All depend on the wheels, and targetted features: anything human.
+
 # Members
 We're enthusiasts, we're family, we're at:<br>
 [https://github.io/wteeg](https://github.com/wteeg)

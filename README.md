@@ -57,6 +57,7 @@ Hardware AI (Mate core)
   - NPU
     - Avail on all PCs
   - Quantum System
+    - Photonic (room temperature)
     - Compiler makes circuits
   - Neuromorphic Chip
   

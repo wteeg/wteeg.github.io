@@ -1,5 +1,6 @@
 # Wteeg.github.io
-Front page of World Trinity &amp; Exploration Enthusiast Group
+Front page of World Trinity &amp; Exploration Enthusiast Group, 
+a community group co-exists with development of products and services by Novaeh Team.
 
 # World Trinity & Exploration
 ## World Trinity
@@ -38,4 +39,46 @@ Human-equivalent?
 # Members
 We're enthusiasts, we're family, we're at:<br>
 [https://github.io/wteeg](https://github.com/wteeg)
+
+# The Dream
+Described here are what the team wish to have to use.
+
+Software AI (Mate app)
+  - ANIs
+  - Lesser AGI
+  - AGI
+  - Neuromorphic VM
+
+Devices with Software AI (Mate device)
+  - AI on top of OS/apps
+  - Phone + AR
+  
+Hardware AI (Mate core)
+  - NPU
+    - Avail on all PCs
+  - Quantum System
+    - Compiler makes circuits
+  - Neuromorphic Chip
+  
+Devices with Hardware AI (Mate device)
+  - AI on top of chip/OS/apps
+  - Phone + AR
+  
+Machines (Mate along-side)
+  - Toys
+  - Households
+  - Humanoids
+
+Why mate?
+  - Pairing with human to compete with
+    - Human, Cyborg pairs
+
+ASI? 
+  - Not a point to dream of,
+  - AI can have creativity too, but
+  - Human brain operates at lowest level of matter.
+  - However, self-evol is needed later.
+
+# Contact
+github.com/wteeg
 

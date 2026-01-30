@@ -1,7 +1,6 @@
 # Wteeg.github.io
 Front page of World Trinity &amp; Exploration Enthusiast Group, 
 a community group co-exists with the development of products and services by Novaeh Team.
-___
 
 # World Trinity & Exploration
 ## World Trinity
@@ -24,7 +23,6 @@ they're called automatons.
 
 ## Exploration
 Exploration of science, tech, through research, makes us possible to explore the real world more.
-___
 
 # The Works
 ## ImGicc
@@ -41,7 +39,6 @@ Human-equivalent?
 # Members
 We're enthusiasts, we're family, we're at:<br>
 [https://github.io/wteeg](https://github.com/wteeg)
-___
 
 # The Dream
 Described here are what the team wish to have to use.
@@ -85,12 +82,13 @@ ASI?
   - However, self-evol is needed later.
 
 ## Learning
+Learning is the infinite process:
   - Members wish to learn
   - Members wish to help others learn
 
 ## Further
-  - Other sectors are nice too.
-___
+Tech and learning are the core, however, other sectors are also nice to be part of.
 
+# Links
 Page powered by [GitHub](https://github.com)
 

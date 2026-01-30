@@ -1,6 +1,6 @@
 # Wteeg.github.io
 Front page of World Trinity &amp; Exploration Enthusiast Group, 
-a community group co-exists with development of products and services by Novaeh Team.
+a community group co-exists with the development of products and services by Novaeh Team.
 
 # World Trinity & Exploration
 ## World Trinity

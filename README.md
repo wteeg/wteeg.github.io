@@ -48,6 +48,9 @@ Software AI (Mate app)
   - ANIs
   - Lesser AGI
   - AGI
+    - Genetics (evol/data/processes)
+    - Learn what a human learns
+    - Do what a human does
   - Neuromorphic VM
 
 Devices with Software AI (Mate device)
